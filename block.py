@@ -14,7 +14,7 @@ GENESIS_DATA = {
     'nonce' : 'genesis_nonce'
 }
 
-class Block:
+class Block: #Block Class
     """
     Block: A unit of storage.
     Store transactions in a blockchain that supports a cryptocurrency.
